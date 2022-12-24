@@ -30,9 +30,9 @@ Tasked with the project to help a small,rural town modernize its vote counting p
 
 Results
 _____________________________________________________________________________________________________________________
-Total Votes: 369,711
-Candidate Results: 
-    #Charles Casper Stockham: 23.0% (85,213)
-    #Diana DeGette: 73.8% (272,892)
-    #Raymon Anthony Doane: 3.1% (11,606)
-Winner: Diana DeGette won with 272,892 votes, making up 73.8% of the voting pool
+- Total Votes: 369,711
+- Candidate Results: 
+   - Charles Casper Stockham: 23.0% (85,213)
+   - Diana DeGette: 73.8% (272,892)
+   - Raymon Anthony Doane: 3.1% (11,606)
+- Winner: Diana DeGette won with 272,892 votes, making up 73.8% of the voting pool
